@@ -6,4 +6,4 @@ ___Below are the links to my GitHub Gist and IBM Watson Studio accounts which sh
 
 <details>
         <summary>Links </summary>
-        <p> Introduction Notebook : https://gist.github.com/0e0844d7a68035f7e8d518d914d3a766 </p>
+        <p> Introduction Notebook :  </p>
