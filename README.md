@@ -7,3 +7,4 @@ ___Below are the links to my GitHub Gist and IBM Watson Studio accounts which sh
 <details>
         <summary>Links </summary>
         <p> Introduction Notebook : https://gist.github.com/dcb4cbcddca4a1a5e88517f5a1b2eefa </p>
+        <p> Data Wrangling : https://gist.github.com/3163f5481b393a3fe9569edb30bca384 </p>
