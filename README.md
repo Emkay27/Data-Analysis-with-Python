@@ -2,10 +2,10 @@
 
 ___This is a repository that tracks my progress in the IBM Cognative class course namely, Data Analysis with Python.___
 
-___I have passed the IBM cognitive class with a mark of 100% to receive my certificate and badge which you can see below.___
+___I have passed the IBM cognitive class with a mark of 100% to receive my badge and certificate which you can see below.___
 IBM badge                          |  IBM certificate
 :---------------------------------:|:-------------------------:
-![](DataAnalysisPython.png)   | ![](IBMcertificate.png)
+![](DataAnalysisPython.png)   | ![](DataAnalysisPythonCertificate.png)
 
 ___Below are the links to my GitHub Gist and IBM Watson Studio accounts which shows what I've learnt in the IBM Cognative class course.___
 
