@@ -10,3 +10,4 @@ ___Below are the links to my GitHub Gist and IBM Watson Studio accounts which sh
         <p> Data Wrangling : https://gist.github.com/3163f5481b393a3fe9569edb30bca384 </p>
         <p> Data Analysis with Python : https://gist.github.com/5e7d70b12a6c6902070fe1f0e2e5f74f </p>
         <p> Model Development : https://gist.github.com/753ddece9dbc7a9187aca5ce7c630672 </p>
+        <p> Model Evaluation and Refinement : https://gist.github.com/bf0e42fe3b96b5ae08e2411b2b41469c </p>
