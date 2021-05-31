@@ -11,7 +11,6 @@ ___Below are the links to my GitHub Gist and IBM Watson Studio accounts which sh
 
 <details>
         <summary>Links </summary>
-        <p> Introduction Notebook : https://gist.github.com/0b49da7546a92369cba9f829a62e457d </p>
         <p> Data Wrangling : https://gist.github.com/3163f5481b393a3fe9569edb30bca384 </p>
         <p> Data Analysis with Python : https://gist.github.com/5e7d70b12a6c6902070fe1f0e2e5f74f </p>
         <p> Model Development : https://gist.github.com/753ddece9dbc7a9187aca5ce7c630672 </p>
