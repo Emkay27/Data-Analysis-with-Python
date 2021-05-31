@@ -1,4 +1,4 @@
-# Data-Analysis-with-Python
+# Data Analysis with Python
 
 ___This is a repository that tracks my progress in the IBM Cognative class course namely, Data Analysis with Python.___
 
